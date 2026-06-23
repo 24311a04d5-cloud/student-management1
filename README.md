@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Management System (Spring Boot + Postman)
 
 A simple Student Management System built with Spring Boot.  
@@ -15,3 +16,7 @@ using REST APIs tested in Postman.
 1. Clone the repository
    ```bash
    git clone https://github.com/your-username/student-management.git
+=======
+# student-management1
+Student Management System using Spring Boot + Postman.
+>>>>>>> 923c7848f92879cf8b6f8e7d85198cda44f8f684
